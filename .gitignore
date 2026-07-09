@@ -340,3 +340,9 @@ dev/registry/providers.json
 !/.claude/skills/magpie-setup
 /.github/skills/magpie-*
 !/.github/skills/magpie-setup
+
+# SASVA internal (auto-added for team mode)
+.sasva/snapshots/
+.sasva/builtin-tasks/
+.sasva/migration/
+.sasva/workflows/
