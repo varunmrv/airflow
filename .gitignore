@@ -340,3 +340,6 @@ dev/registry/providers.json
 !/.claude/skills/magpie-setup
 /.github/skills/magpie-*
 !/.github/skills/magpie-setup
+
+# Shared contexts (committed for team visibility)
+!.sasva/shared-contexts/
